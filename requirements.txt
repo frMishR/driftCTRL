@@ -1,7 +1,0 @@
-gymnasium[box2d]
-imageio
-matplotlib
-moviepy
-numpy
-pandas
-stable-baselines3[extra]
